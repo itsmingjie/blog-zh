@@ -8,7 +8,7 @@ url: "https://zh.mingjie.info"
 domain: "https://zh.mingjie.info"
 github_username: mj66
 github_site_repo: mj66/blog-zh/
-
+disqus: "mingjie-zh"
 
 # Build settings
 highlighter: rouge
