@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>明劼原创</title>
+    <description>敢写，敢折腾。</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 12 Jun 2017 22:33:30 -0400</pubDate>
+    <lastBuildDate>Mon, 12 Jun 2017 22:33:30 -0400</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>原创，回归</title>
+        <description>&lt;p&gt;多少时间了？&lt;/p&gt;
+
+&lt;p&gt;2016年年底Codex解散，公众号荒废，我的博客更新速度也渐渐慢了下来。
+我也在之后的更新里提到了，前段时间的学习太忙，没有时间再去运营更多的东西。然而计算机作为我的兴趣爱好我仍然没有放下：在过去的6个月里，我制作了3个完美运行的公开项目，与其他团队进行合作开发共贡献代码三万余行。认识了很多人，也有了很多想法。&lt;/p&gt;
+
+&lt;p&gt;IT之家的各位也没有看到我特别活跃，除了二月出事的那一阵子我有在帮忙处理，其他的时候我也没有去发稿。&lt;/p&gt;
+
+&lt;h2 id=&quot;有关软件开发团队&quot;&gt;有关“软件开发团队”&lt;/h2&gt;
+
+&lt;p&gt;时间是有限的。我用这4个月，相当于稳固了自己的编程基础，基本保证了我目前能够独立开发可用的东西了。哦当然这并不代表我不需要支持我的团队了，开源项目永远是需要社区的。很多人问我Codex就这么停了，有没有考虑过让别人接手，或者重启这样的可能。我说，第一Codex并没有一个稳定的收入渠道，全凭筹款被人感觉像在圈钱然后我一下宣布停止然后卷着钱跑路一样(再次声明我们按照比例退回了所有剩余的款额)，即使继续了也没有持续发展的方向；第二互联网工作室真的不能顺畅发展，毕竟碰不到头你不能保证对方的在线情况，何况我还有12-13小时的时差。&lt;/p&gt;
+
+&lt;p&gt;在讲原创之前，我先说说在线团队。这是时下网上一种比较流行的开发模式，即团队由领导组带领招收陌生人进行代码和创意贡献然后收入分成。我看到了我的朋友圈里出现了这样那样的所谓“工作室”或“团队”。然而让我失望的是，这些团队所正在完成的项目，要么是相当基础的，那种比Hello World稍微难一点的练习题项目，要么是做个海报宣布一下就挂机的ppt项目。别说是收入了，这些项目做出去真的连10个用户都做不到，可能还包括你们团队自己的人，而且毫无技术含量。这也是当时我在解散Codex的时候的最终原因。&lt;/p&gt;
+
+&lt;p&gt;偏题了。&lt;/p&gt;
+
+&lt;h2 id=&quot;原创--版权&quot;&gt;原创 &amp;amp; 版权&lt;/h2&gt;
+
+&lt;p&gt;一年前我开始为IT之家在内的大型媒体和小型网站进行投稿和供稿。说真的，你去IT之家搜我的名字至少可以搜出一整页的文章列表。但是我得到了什么呢？只有一些微不足道的打赏。&lt;/p&gt;
+
+&lt;p&gt;我之前写过专题，查过自己的文章在非法渠道传播得多快：我的篇幅文章发表在媒体上，24小时内可以在超过15家不同的媒体和大大小小的网站上出现，更有甚者直接注明该站原创。媒体已经不能解决问题了——为什么中国媒体界的文字素材越来越不值钱，这就是根本原因。&lt;/p&gt;
+
+&lt;p&gt;反观美国。从西方的教育层面来讲，版权这种东西是从小到大老师一直会在你耳边唠叨的: 做研究报告的时候，老师会千叮嘱万叮嘱一定要Include Citation（附上来源信息），否则你的整个学生记录就会因为Plagiarism（剽窃）而毁。不是说国内人根本没有版权意识——强调这类内容的学校我也见过，而是整体来说版权意识的维护做得不够强。说真的，我完全可以因为我一篇不起眼的文章去起诉某些盗文的媒体公司，但是在国内这样的环境下，真的有人会管吗？就算法律渠道是不受腐败影响的，这么小一篇文章，这些公司会怕你区区一个学生吗？&lt;/p&gt;
+
+&lt;p&gt;微信作出这么一个渠道是有原因的，这也是我唯一能够称赞腾讯的地方。腾讯也有自己的媒体行业，想必也深知盗版对媒体的伤害。保护自媒体的版权，对他也有好处：一是可以让公司变成国内环境下的“清流”，领头羊，具有行业领导能力；二是可以吸收更多自媒体的入驻，为自己带来收入；三是炫耀下自己的技术多么多么先进，简直可以媲美国外的Turnitin.com。&lt;/p&gt;
+
+&lt;p&gt;在这样乌烟瘴气的媒体界氛围下，能够坚持写原创内容的人是很有勇气的。原创的收入两极分化也很严重，做的好的，粉丝订阅会越滚越多；没实力的，就像我这样的，纯粹兴趣爱好根本不在意收入和订阅的，哪怕你文章写得再好也没人愿意理你。&lt;/p&gt;
+
+&lt;p&gt;所以，我空下来，该写的还是会写。&lt;/p&gt;
+
+&lt;h2 id=&quot;喷子水军--键盘侠&quot;&gt;喷子、水军 &amp;amp; 键盘侠&lt;/h2&gt;
+
+&lt;p&gt;我之前写过一整篇有关于网络喷子、水军和键盘侠的文章，我的观点在这里就不再论述了。说真的，我上次在媒体发文后看了一眼评论区，简直就是无法直视。某些不要脸的喷子，能够对文章内容的每一个点进行攻击，然后谩骂作者“水文”，说内容“没营养”。你说媒体编辑我没意见，毕竟编辑是靠发文章靠点击量拿钱的，但是我们却完全没有这样的理由来“水文”。我当时就在评论圈以作者的身份直接喊话，内容如下：&lt;/p&gt;
+
+&lt;p&gt;作者致某些喷子：你不爱看别看啊，还发出来说没用，你怎么就知道没用了？没用我会花这么长时间写，就为了装个13？对你没用，对别人有用，可以当作参考，怎么，你以为自己很了不起，可以代表全部在看的人？有本事，你也写一篇，详细说说你的理论，我来拜读一下？对作者的基本尊重都没有，就算我装比，就算我写的东西无聊，没营养，至少我写了，我从去年开始定期为之家投稿写文，除了一点微不足道的打赏之外我拿了什么好处了？再看看你们这些喷子，你们的理论，就有营养，就不装比，就在为社区做贡献了？你们有本事就继续喷，我反正不在意，我可以选择性忽略你们的评论。对，我写了文章就是了不起了，你来咬我啊，啊？&lt;/p&gt;
+
+&lt;p&gt;媒体的编辑也对我的这番话进行了支持。对，抱歉我这段话某些用词写得相当粗糙，但是就像网友所说的，话糙理不糙。某些网友的评论也好，讨论的话题也好，对我就有一些打击。我不得不敬佩还能够靠文字吃饭的编辑们，这些编辑们的心理素质也相当强。换位思考下，如果你在媒体上写文章，然后花了半个小时，一个小时的文章被某些莫名其妙的网友花30秒写的一个评论诋毁的一塌糊涂，然后该评论居然还获得500多支持的时候，你该怎么想？
+这也是我想继续写原创的原因之一。&lt;/p&gt;
+
+&lt;h2 id=&quot;未来更新安排&quot;&gt;未来更新安排&lt;/h2&gt;
+
+&lt;p&gt;但是，想继续写归“想”，能不能做到我还真的不清楚。现在正是春假，我用一个礼拜的时间得到了Apple News的发布许可（关注我的Apple News频道: https://apple.news/TONtQ6l3UQl-gsXoEI4Oqpg ，现在是空的将来会更新），个人英语博客(https://www.mingjie.info)的多方推送渠道，以及这个微信公众号的重启。之后，我还有AP考试，期末考试，辩论赛等等的事情要忙活，时间也并不是很多。我会尝试在这个公众号里推送中文和英文的原创文字，希望大家喜欢。&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;作者：Σ( ° △ °&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;)︴感觉自己越来越厉害了一个小时写了两千字！中文没退步我很欣慰啊！&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Tue, 18 Apr 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/original/2017/04/18/original-is-back/</link>
+        <guid isPermaLink="true">http://localhost:4000/original/2017/04/18/original-is-back/</guid>
+        
+        <category>original</category>
+        
+        <category>summary</category>
+        
+        <category>writing</category>
+        
+        <category>life</category>
+        
+        
+        <category>original</category>
+        
+      </item>
+    
+      <item>
+        <title>Nextbit Robin云手机使用实际体验</title>
+        <description>&lt;p&gt;【注：本文章已经投稿至IT之家。IT之家已被授权转载/发布。其他媒体未经允许不得使用本文或本文中的任何素材。】&lt;/p&gt;
+&lt;h2 id=&quot;入手&quot;&gt;入手&lt;/h2&gt;
+&lt;p&gt;自从上次在学校里说我的京瓷Brigadier摔不坏然后就莫名其妙地碎屏了之后，我就几乎回归了半功能机时代。但是之家的一篇文章成功地引起了我的注意：http://www.ithome.com/html/android/272349.htm。于是，我查阅了相关资料，发现这家创业公司的众筹之路出了奇的平坦顺畅，而且这个配置相当于一台Nexus 5X了（目前看来还是有差距的）。于是，当即以169.99美元的价格拍下。当时，Nextbit Robin在其官网的售价仍为399美元。
+先给美国亚马逊的小哥打个好评，晚上下单第二天下午就到货了，一天送货堪比京东。
+&lt;img src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/CxuqMvxicw8iaxfqUykUSOB1LkWibCicsia6u0AicVObRicReIwibfs9QrRibQvibgib6ZX1f7HSKwB0eh4pAdicZntCd9NEicA/640?wx_fmt=jpeg&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/CxuqMvxicw8iaxfqUykUSOB1LkWibCicsia6uXtevWKGubAUvDu9AWsuCOicas8bWZKl9U7VmlDiao19MPvHGd3wEh65A/640?wx_fmt=jpeg&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;以下是Nextbit Robin的详细配置：
+屏幕：5.2寸1080p IPS LCD
+面板：康宁大猩猩4代玻璃
+内置存储（ROM）：32GB + 100GB云（等会解释）
+运行内存（RAM）：3GB
+CPU：高通骁龙808
+相机：13MP后置+5MP前置，双色温闪光灯，自动对焦
+配备：高通2.0快充技术，NFC，指纹识别（在侧面电源键），USB Type C，蓝牙4.0，双前置喇叭
+尺寸：5.2英寸屏幕，72mm&lt;em&gt;149mm&lt;/em&gt;7mm（数据来自官网）&lt;/p&gt;
+
+&lt;h2 id=&quot;硬件&quot;&gt;硬件&lt;/h2&gt;
+&lt;p&gt;Robin的硬件我当时并没有抱太大希望。我做的手机测评不多，毕竟自己本身就没用过多少设备。但是这款手机的外观设计非常特别，简单，说白了就是一个字，方。这玩意太方了！一开始看起来可能比较扎手，因为边角的轮廓非常的直，但使用几天后就完全习惯了，反而感觉握着挺舒服的。5.2英寸的屏幕不大不小，正好能够适用于日常的一些工作和娱乐。
+&lt;img src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/CxuqMvxicw8iaxfqUykUSOB1LkWibCicsia6uJz41wLBYpS9nEsMvCPDibzE0icNEexwxVgvPcdCoPnHmHaJWSrwHQJYg/640?wx_fmt=jpeg&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/CxuqMvxicw8iaxfqUykUSOB1LkWibCicsia6uW1PIv3lPV6W4TsQJWH4qU50DgPmzskFXTqDTLQuEOMt8TARP3JQjrA/640?wx_fmt=jpeg&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;【Nextbit Robin屏幕大小对比iPhone 7 Plus】
+设备的屏幕面顶端有三个开孔，从左到右分别是传感器，前置照相机和主喇叭。底部有一个开孔，在说明书上明显地说明了，这不是Home键！ Robin没有home键，使用安卓的虚拟导航栏。&lt;/p&gt;
+
+&lt;p&gt;高通骁龙808。好吧，现在已经算不上什么旗舰了，但是在一年多两年前发布的时候这可是旗舰级别的配置。3GB RAM并不多，但是足以进行一些日常的操作（刷社交，码字，刷之家等等），而且只要不打游戏什么的，大多数app还是能够保持存活的。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/CxuqMvxicw8iaxfqUykUSOB1LkWibCicsia6urfsQMuoR3OYicLHP9HjPyacLib68DKtnEdfzBwdTBaMXRxASW2rs7LSw/640?wx_fmt=jpeg&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;问题——我并没有听说808有多少发热的现象——发热的好像是810啊，但是我在实际测试的一周内，我发现好几次手机放在口袋里就变得滚烫，然后导致掉电。说道掉电，Robin的电池续航并不是令我非常满意的：在没有进行任何优化的情况下，微信QQ后台开启Wifi开启流量关闭，半天左右电就耗完了。经过我的仔细分析，还是后台的锅，所以我就若无其事地Root了设备装上绿色守护Greenify万事大吉。现在优化完毕的设备续航在8小时左右，大概也够了。&lt;/p&gt;
+&lt;h2 id=&quot;软件&quot;&gt;软件&lt;/h2&gt;
+&lt;p&gt;不少人一直在问我，云手机云在什么地方。好，我现在就光明正大地告诉你，没！卵！用！首先，请检查自己的设备——你的设备已使用的容量是多少？如果你没有使用超过32G的空间，抱歉，那Robin对你来说和一台Nexus 5X没区别。因为，云功能只会在手机内存不足的时候启用。。。&lt;/p&gt;
+
+&lt;p&gt;100G的云存储，用来干嘛的呢？当你的应用太多时，Robin会把你不常用的应用备份的到云端，然后从本地删除，为你的新宠腾出空间。但是你的应用数据还是完好的，虽然应用Logo会变成灰色，告诉你此应用不在本地，你只需要轻轻点击一下并等待大概一分钟时间，应用数据就会被安装回来。其实，原理跟冰箱非常相似。&lt;/p&gt;
+
+&lt;p&gt;你也可以pin一些你常用的应用，Robin就会保持这些应用在你的手机上。总体来说，我真的是体验不出特别多的“云”之处，毕竟我平时用最多的就是之家，微信QQ，Facebook，还有就是一些杂七杂八的小应用，手机到现在只占了23G左右，所以云存储是根本没有开启过。只有在刷机重置之后，手机会将你以前同步在云里的app全部加载出来，也就是全部云化，但不下载，我才得以体验到了下载的速度。
+系统。Robin的系统优化几乎全部在这个启动器上，其它的系统外观和安卓原生基本一致，看着也是十分的舒服。此外，值得一提的是，Robin在销售时，就明确表示了bootloader可解锁。现在在该手机的XDA和官方论坛上，我们可以找到包括原生官方CyanogenMod在内的多款rom。最快的rom已经适配了安卓7.1.1。&lt;/p&gt;
+
+&lt;p&gt;在论坛上，我咨询到了Nextbit公司的职员Khang。该员工表示，公司曾宣布过对此手机发布后至少两年内的系统更新进行升级。目前Android N的内测版本已经开始对部分用户开启，很遗憾笔者并没有能够被邀请加入此项目。但是我有理由相信，这家不起眼的创业公司能够满足其庞大而特别的用户群体的需求。&lt;/p&gt;
+
+&lt;h2 id=&quot;其他&quot;&gt;其他&lt;/h2&gt;
+&lt;p&gt;这部手机的回头率非常高，高到在学校里只要拿出来用必有人会来问这问那。但是在设计方面，缺陷还是有的。由于手机较大，整体设计又偏方形，放在口袋里时非常容易滑出来，掉在地上。我现在基本养成了不用就放包里的好习惯，但是滑这个毛病也得治啊！&lt;/p&gt;
+
+&lt;p&gt;指纹解锁为我带来了不少方便。Robin的指纹解锁速度还是比较快的，在识别正确的情况下基本上看不到通知，一按下电源键就非常流畅地滚到桌面了。但是，在识别率上并不是非常完美。有时候，手机会不断提示指纹错误，以至于最后只能输入密码解锁。经过研究，我发现。。。这其实是手机的指纹传感器不耐脏的结果，轻轻擦拭即可解决问题。&lt;/p&gt;
+
+&lt;p&gt;除了指纹的问题外，Robin的电源键还有些松弛的现象，摸着并不是很爽。而且电源键居然和手机外壳是平的，而不是突出，这样的设计还是比较麻烦的，毕竟电源键很难被按到。&lt;/p&gt;
+
+&lt;h2 id=&quot;总结&quot;&gt;总结&lt;/h2&gt;
+&lt;p&gt;发现很长时间不写文章果然中文又退步了，希望大家不要介意。总体来说，Robin是一款非常优秀的旗舰手机——毕竟在他这个价位，你很难买到第二款美国的同配置手机了。有兴趣的机友们点击阅读原文可以前往美亚购买（已降至$144.99，约合人民币1000元）：https://www.amazon.com/Nextbit-Robin-Factory-Unlocked-Phone/dp/B01D9LVCAI/ref=sr_1_1?s=wireless&amp;amp;ie=UTF8&amp;amp;qid=1482892101&lt;/p&gt;
+
+&lt;p&gt;祝大家新年快乐：-）&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/original/review/2016/12/29/nextbit-robin-review/</link>
+        <guid isPermaLink="true">http://localhost:4000/original/review/2016/12/29/nextbit-robin-review/</guid>
+        
+        <category>original</category>
+        
+        <category>summary</category>
+        
+        <category>writing</category>
+        
+        <category>life</category>
+        
+        
+        <category>original</category>
+        
+        <category>review</category>
+        
+      </item>
+    
+      <item>
+        <title>所以你们这样用盗版，KMS到底是个什么鬼？</title>
+        <description>&lt;p&gt;不少人啊，真的是不知好歹。明知盗版违法，还是知法犯法。那么既然你们问了，我，作为软件系的和平使者，为了避免大家“看不懂的都是XXX”的心态，就来解释一下，什么是你们口中的“KMS激活”。&lt;/p&gt;
+
+&lt;p&gt;首先，回答下大多数人的问题：密钥，读音（mì yào），指解密需要的特殊代码。&lt;/p&gt;
+
+&lt;p&gt;KMS，全称Key Management Service。很多人可能不知道，KMS其实是微软官方认可的一种系统激活方式。这个激活方式主要用于企业计算机的批量激活。打个比方，你们公司买了3000台一模一样的台式机，然而都是空机没有内置OEM系统。这样怎么办呢？于是，你们就需要一个系统管理员（System Administrator），由这个系统管理员大神用你们公司的票子购买一个批量激活密钥（也就是大家经常看到的Volume Key，Vol密钥，一定特别贵）。然而有这个密钥还是不够啊，总不见得3000台机器一台一台开机设置输入密钥激活吧？这时KMS的优势就体现了。管理员需要设置一个激活服务器（Activation Server），并在每一个客户机上安装KMS的客户端，就可以进行批量激活和管理。也就是说，管理员不光可以远程激活你的电脑，还能够远程取消激活乃至控制你的电脑。&lt;/p&gt;
+
+&lt;p&gt;我们用图来解释下：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mmbiz.qpic.cn/mmbiz_png/CxuqMvxicw8jAfia8lMVXahVn40L6EMDaPsLVlINicm4Uia0GDODgUq0dFaeXmrCaguNvxBKribm1r3Aonj4QdQyABw/640?wx_fmt=png&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mmbiz.qpic.cn/mmbiz_png/CxuqMvxicw8jAfia8lMVXahVn40L6EMDaPG4kRFewV1mv2XKD4iav6zskypkpZ8PsDzhQw7icFMuK2ZWLia484KZPug/640?wx_fmt=png&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;恩大概就是这样。
+那么你们手上那些自称能免费激活Windows的软件（比如KMS Pico，小马等等），是怎么操作的呢？我进行了一些搜索，发现这些软件使用的算法无非三种：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;在本地计算机中建立一个虚拟的任务，无限试用系统（低级，容易被封杀）&lt;/li&gt;
+  &lt;li&gt;使用该软件开发者的激活服务器来激活（高级，不容易被封杀）&lt;/li&gt;
+  &lt;li&gt;在本地计算机中建立一个虚拟激活服务器（服务），并发送已激活的模拟信号（中级）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;然而，每一种算法都有弊端。第一种无限试用，微软只要轻轻松松给你个补丁你就完事了，毫无难度；第二种，微软要是发现了你激活服务器的违规使用也会直接封杀密钥，从该服务器激活的所有计算机都会出现未激活的状态；最后一种，微软已经采取了措施，不仅让Windows Defender报毒，还在系统更新时直接删除该任务。&lt;/p&gt;
+
+&lt;p&gt;有人说，这些都是临时问题，要是激活掉了重新破解就好。来我们看看更严重的问题：当你的电脑被远程激活时，通常会这样显示：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mmbiz.qpic.cn/mmbiz_png/CxuqMvxicw8jAfia8lMVXahVn40L6EMDaPt4ZP4uHHznRH7icVzeVWL4P51cVb8uehPOqDiagGNUzP0kiamKn3oVPDw/640?wx_fmt=png&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;什么意思？也就是说你的系统不再是你的了——变成属于一个团队或管理员的了。不要不以为然——管理员能够执行的操作那可就多了，拷贝个数据收集个信息简直是小菜一碟，更厉害的还能直接reset你的系统而保留KMS的权限。说不定，哪天KMS Pico的开发者不开心，就按下了那个红色的按钮……&lt;/p&gt;
+
+&lt;p&gt;所以，不是优越感，不是无脑黑。用正版，用得放心，心里也踏实。&lt;/p&gt;
+
+&lt;p&gt;保护正版，人人有责。&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Nov 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/original/technology/2016/11/04/what-is-kms-activation/</link>
+        <guid isPermaLink="true">http://localhost:4000/original/technology/2016/11/04/what-is-kms-activation/</guid>
+        
+        <category>original</category>
+        
+        <category>technology</category>
+        
+        <category>user</category>
+        
+        
+        <category>original</category>
+        
+        <category>technology</category>
+        
+      </item>
+    
+      <item>
+        <title>漫话留学(3)：听说美国读书压力小？</title>
+        <description>&lt;p&gt;写这篇文章的目的完全是为了纠正大家一些错误的观念。自从出国后（甚至出国之前），我就一直会听到这样的话：（大妈脸）“美国读书不要太轻松哦！”要不是我自己出国了，我差点就信了。&lt;/p&gt;
+
+&lt;p&gt;之前给大家讲过美国的评分制度和中国有多么不同。但在美国的评分制度中，还有一个非常重要的元素，这玩意叫GPA（Grade Point Average，成绩平均绩点）。GPA的计算方法很简单：A-4分，B-3分，C-2分，D-1分，F-0分，然后把你的所有科目的成绩加起来除以科目数量就是你的GPA。在初中阶段，GPA 4.0（即全A）是非常常见的事情，但是到了高中就完全不同了。在美高，有一种神奇的课程叫做Honors（荣誉班），还有另一种更加神奇和著名的课程叫做AP（Advanced Placement）课程。这两种课程的难度系数偏高，所以GPA的计算以5分起，A到F依次为5、4、3、2、0分。&lt;/p&gt;
+
+&lt;p&gt;好了介绍完背景开始讲故事了。曾经我天真地认为高中的课和初中一样简单，于是毅然决然地在高一选择了2门AP和除体育、乐队之外全Honor的课程。然后发生了什么大家也就都猜到了——该怎么被虐怎么被虐，除了数学（老师看到我怕）。这是我完全没有意料到的，也明白了为什么有传言说高中3.8 GPA就很不错了。所以所谓5.0，其实就是在4.0上给课程加一个难度让你拿不到A然后乖乖滚回B，拿回你的4.0，AP还附赠一个大学学分。这就好比你发现商场打折了，冲进去剁完手之后才知道这是商店涨价商品后的“假打折”。当然这些课程并不是真的不可能拿到A，比如我在计算机上基础比较好拿到CSP的5.0也不是很难，但是对于0基础的小白同学们就并不容易了。说白了，AP要真的想拿到5.0，仅上课认真听下课完成作业绝对是不够的，你要：1. 有老本可以啃；2. 有足够的时间去钻研和浪费在一门课上。
+作业。我真的很想和我们的老师谈谈人生——布置作业完全没人性。国内的老师走班制有什么优点？就是老师知道其他老师的安排。比如说，数学老师看到语文老师的作业布置了一整个黑板，就不会忍心给你们再布置一堆数学作业（可能我的有些老师是这样吧，欢迎吐槽）。但在这里，事情就没这么顺利了。你的课程和你的小伙伴的课程完全不一样，可能你在上西班牙语别人在上乐队。但是你们有一个共同的数学老师。这个数学老师布置了1个小时的作业，大家都是一副呵呵的表情，也就受了。然而你的下一节课可是学校里的用纸大户西班牙语。然后西班牙语老师也是一脸你打我呀的表情布置了1.5个小时的翻译作业（按个人速度不同），然而你的小伙伴，就是去乐队的那个，在乐队就完全不会有作业。加上一堆乱七八糟的英语科学化学生物计算机历史政治作业，你的作业量就是6个小时，乐队君的作业就只有5个小时。这说明什么？我并没有妄想老师能够考虑到别的老师的作业量，毕竟课是你自己选的，自己挖的坑跪着也得自己填完，但是你和你的小伙伴的作业量就完全不同啊！我的平均作业量在4-6个小时，下午2:30放学3:00到家开始，除去吃饭的那一个小时大概完成时间是9点左右。然而这时Non-stop刷作业，对我这种思想完全不能集中的人来说是不可能的。所以怎么折腾折腾也得搞到10点。然而我有一个朋友比我高一年级他只拿了一门和我一样的AP-NSL（政府）课程，其他都是On-Level的正常课程。他的作业量就可能只有3-4个小时。还有一些GT Program（Gifted and Talented，俗称魔鬼班）的疯子，高一作业可能就可以刷到凌晨1点多。所以我再给一次机会你，还认为美国学习轻松？&lt;/p&gt;
+
+&lt;p&gt;还！没！完！&lt;/p&gt;
+
+&lt;p&gt;学习不是你的全部吧？不不不，我是说学校里的学习不是你的全部吧？别忘了你高中了还有PSAT，SAT要准备，有额外的课外作业要做，我还要自己开社团，可怜的ABC（美籍华人）们还要上中文学校，还有学校学院（之后介绍）的一堆Project报告要做吧！总不能全部堆在周末？&lt;/p&gt;
+
+&lt;p&gt;当然你要是够胆大完全可以放弃这一切，只完成学校的学习任务然后睡觉。没错啊，你完全可以全A毕业，4.2 GPA对你来说也不是问题。只是，你真的认为IVY League随随便便就让你4.2 GPA进吗？除了以上这些，没有SSL Hours（我们学校的社工服务积分，需要社区服务72小时方可毕业）你连高中毕业证书都拿不到。&lt;/p&gt;
+
+&lt;p&gt;反正我吐槽了这么多，也不是在说我多么多么不想做这些事情。我只想说，这些压力压在我身上我不会发半句怨言，毕竟课也是我自己选的，我要不想干完全可以全On Level拿我的4.0安安稳稳地过日子。还是那句话，自己挖的坑跪着也得自己填完。但是我只想告诉那些还在盼望着出国逃避国内压力的父母和学生（还有就是是那些什么鬼剧情的最近的国产留学主题电视剧），要是想逃避，就别想出国了。都是一样的，国内也有轻松的公立学校，也有轻松的私立学校。要想指望国外发展好，这点最基本的功夫，还是要下的。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/original/studying/2016/10/30/studying-in-us-really-no-pressure/</link>
+        <guid isPermaLink="true">http://localhost:4000/original/studying/2016/10/30/studying-in-us-really-no-pressure/</guid>
+        
+        <category>original</category>
+        
+        <category>studying</category>
+        
+        <category>abroad</category>
+        
+        <category>pressure</category>
+        
+        <category>life</category>
+        
+        
+        <category>original</category>
+        
+        <category>studying</category>
+        
+      </item>
+    
+      <item>
+        <title>漫话留学(2)：啥？你说音乐课比啥都难？</title>
+        <description>&lt;p&gt;开学几个礼拜了吧。&lt;/p&gt;
+
+&lt;p&gt;不知道各位学生党过得如何，反正我的生活只能用呵呵来形容——如果具体点，就是累，忙，厌。&lt;/p&gt;
+
+&lt;p&gt;消极的情绪就不分享了，还是写点有用的。我的课程表里充满着各种同年级的人不敢同时选的课程组合，比如第一年两门AP，音乐课体育课同时选，等等。&lt;/p&gt;
+
+&lt;p&gt;等会。。。!&lt;/p&gt;
+
+&lt;p&gt;音乐课体育课同时选怎么了，很难吗？&lt;/p&gt;
+
+&lt;p&gt;难。出其不意地难。&lt;/p&gt;
+
+&lt;p&gt;各位在国内特别是上海这种一线读书的小伙伴可能都知道体育音乐这些属于所谓副课，相对来说没有主课重要，所以经常成为语数外老师抢课的焦点。但在这里就不一样了，体育课音乐课美术课哪怕厨艺课占总均分(GPA)的比例是一样的，都是取平均值。也就是说，你的主课考得再好，一小门副课也能垮了你的半边天。这里有些人说了，那还不简单？音乐课体育课拿高点成绩还能拉主课的分数呢，这分多好拿。&lt;/p&gt;
+
+&lt;p&gt;又错了。&lt;/p&gt;
+
+&lt;p&gt;我一开始回家跟我妈说我音乐课可能拿不到A的时候(啥，干嘛一定要拿A？这道理你还不懂？对我们伟大的亚裔来说，A for average, B for Bad, C can’t have dinner, D don’t cone home.)，我妈也是惊讶。但是被我这么一解释，你就完全理解了:你在主课上，所有的作业都有一个固定的分值和比重，考试100分就是100分，每道题正确答案只有一个，要么对拿分，要么错了不拿分。错一道题可能95分，全错就是0分，没得商量。但你跑到音乐课等艺术类课程上所有套路立即失效:譬如在我的我的3.0级演奏乐队课上，我玩的是小号。每个老师都有自己打分的规矩，最重要的是还很难揣摩。最终你看到的就是老师对你在这节课上的表现进行主观打分——简单地说，他觉得你今天吹的不错完全可以给你打100分，但是你今天要是没带乐谱，或者演奏的时候吹错了几个音，他完全有理由和权利给你60分。我第一个礼拜就是85，之后几个礼拜就从来没上过90。你说，这个A，怎么拿？&lt;/p&gt;
+
+&lt;p&gt;而且！猪！队！友！乐队是一个集体课程，测试水平和练习成果时老师不可能把每一个乐器都分开来听。通常，他们会把一个乐器的所有人分成小组，比如两个两个或者4个4个一起听着测试，一方面是防止吹错被全班听到的尴尬(这点还是比较人性化的)，另一方面是加快全班测试的速度。然而，有时候老师的耳朵并不是那么精确，所以很有可能把你的猪队友的锅强行加在你背上。这还没完，测试完后老师不会报成绩，你只有当天回家查分数才能知道自己被坑了，然而一切都晚了，成绩都上去了，很难说服老师帮你改。。。&lt;/p&gt;
+
+&lt;p&gt;既然说到了这里，我就不妨再扯扯，介绍下我们公立学校的评分系统和国内系统的差别。&lt;/p&gt;
+
+&lt;p&gt;在国内的时候——至少我的学校是这样的——只有大型考试会记入你的总成绩。作业，however，并不是很大的一部分。一次作业没做老师可以很容易地原谅你，只要你不随便逃作业。平时成绩这个分数在大多情况下取决于老师对你上课的活跃度，规范，集中度等等的一些评判。这样的系统还是很弹性的。相比之下，到了美国之后我就不免发现这里的系统有些死板:所有的成绩均进入你的总评分，可能只是占比不同，但是多多少少都会影响你的分数。这样的系统对谁有利，对谁无益呢？举个例子。如果你是一位成绩不怎么样的学生，但是自己清楚地知道自己需要什么，一直在努力做一些非常小的进步。进步虽小，但是你走得很艰难。在国内的教育制度下哪怕你考试成绩不理想，老师也会在期末的表现分上给你加分，给你一个稍高的成绩。但到了美国的系统下就完了——你上课活跃，讨老师喜欢？没用。考试，作业正确率就是一切。你的考试成绩是D，最后的总评就是D，老师即使想帮你也很难帮到你。在这种情况下，你只能想办法请老师帮你指导。不过这么想的也不是你一个人，也会有很多人想要补课，老师在忙不过来的前提下很难辅导好每一个学生。&lt;/p&gt;
+
+&lt;p&gt;我之前在其他文章里也有多多少少提到过一些这里的奇葩制度，对这个评分制度我也并不是非常满意。我说过，在美国的教育制度下，说难听了，就是“混一天是一天”。你参与的每一堂课会直接关系到你的期末总评，所以在这样的压力下，我觉得美国学生要面对的问题和需要承受的压力可能在某些方面甚至比国内学生承受的压力还要大。请假制度也很不人性，只要没有医院的证明就是无效请假，会在总评上扣分。比如说哪天你突然发烧了，你会去医院吗？去看一次医生的价格可就不小啊，只是感冒发烧谁会去看医生？这种情况下如果你不像被扣分就只能带病去学校上课。&lt;/p&gt;
+
+&lt;p&gt;所以，在某些问题上，美国人的脑子非常死。你又能怎么样呢？既然来了美国，只能按照他们的逻辑走。尽力吧，这么多人都熬过来了。你不努力，学校里的亚洲人就超过你了。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/original/studying/2016/09/28/why-is-music-harder-than-everything/</link>
+        <guid isPermaLink="true">http://localhost:4000/original/studying/2016/09/28/why-is-music-harder-than-everything/</guid>
+        
+        <category>original</category>
+        
+        <category>studying</category>
+        
+        <category>abroad</category>
+        
+        <category>life</category>
+        
+        
+        <category>original</category>
+        
+        <category>studying</category>
+        
+      </item>
+    
+      <item>
+        <title>杨永信：社会渣滓，国家耻辱</title>
+        <description>&lt;p&gt;杨永信，你可以去放心坐牢了。&lt;/p&gt;
+
+&lt;p&gt;本来这篇文章早就该出现，但是由于这两天国外的暴走大事件的源好像暂停更新了我只能去慢慢翻B站。看完了暴走大事件第四季50集之后，我觉得我好像看见了这个国家最正义的一面——以前看国外的视频网站没有人在视频内讨论，但是Bilibili上，我们可以从弹幕看到网友的反应。在那个视频中讲述杨永信各种丑恶的片段，网友的骂声，喊声一篇，犹如一股清流……&lt;/p&gt;
+
+&lt;p&gt;杨永信，这样一个所谓人民医院的副院长，凭借自己所谓的高学历，和一些不明真相的家长对他的信赖，肆意虐待未成年人，并且至今逍遥法外。在查询资料时，我还发现杨永信的一个头衔：“国务院政府特殊津贴专家”。好一个专家，网瘾要治？同性恋要治？问题家庭要治？看了不少有关于杨永信这一传奇人物的报道，我居然发现有一些关于他的正面报道。这还用说？软文推广在当今世界已经不少见了。但杨永信这样大规模发软文，而且写的还跟真的一样的，我还是第一次见。&lt;/p&gt;
+
+&lt;p&gt;杨永信的事情我觉得不需要多说，错就是错，对就是对，大家都清楚。该骂的大家也都骂了，该怒的大家也都怒了，但是我们好像遗漏了什么？&lt;/p&gt;
+
+&lt;p&gt;家长。&lt;/p&gt;
+
+&lt;p&gt;明知道电击疗法对孩子有害无益，为何要去把孩子送入虎口？&lt;/p&gt;
+
+&lt;p&gt;贪。&lt;/p&gt;
+
+&lt;p&gt;家长望子成龙望女成凤心切，发现上网成为了一种所谓的“阻碍”，于是会不惜一切代价去毁掉这个正在阻碍儿女发展的障碍物。杨永信，这个渣滓，正是利用了家长的这种急迫心态，向一个又一个健康健全的少年伸出了毒手。电击，扎针，殴打，还有一些不能用语言形容的惩罚，一击又一击地打在了少年的心上。家长，或是在场外叫好，或是在冷眼旁观，居然没有一个想过这是一种虐待，没有一个去采取行动来抵制这种暴力。&lt;/p&gt;
+
+&lt;p&gt;杨某“治疗网瘾”已经十年了。在这十年里，我已经无法想象有多少个青少年无知地被关进了这个小黑屋。父母，都是成年人，通常被认为永远在做正确的选择；青少年，不能够选择父母，无力抵抗父母的意愿，只能被强制服从。初中的时候学校就向我们普及过《青少年保护法》，但在这样的情况下，试问，你能够违背父母的命令吗？你敢把父母送上法庭吗？当你的所有权限都在父母手里，你还能怎样去申诉？这难道不是法律没有考虑周到的地方？&lt;/p&gt;
+
+&lt;p&gt;我来自上海这样的一个大城市，也从来没有没想过父母的教育程度会有多低。但说真的，这种男女，做事不经过脑子，还能够为人父母，抚养一个生命？说好听点，这叫做治疗；说得难听了，就是摧残！即使知道了儿女在这样的一个监狱中受到了虐待，他们也愿意付出这每月6000元的费用，愿意一次又一次地把儿女——仅仅为了“网瘾”这样一个问题——送进来，愿意给杨永信这样的恶魔制造机会，居然还帮助他制造商机。&lt;/p&gt;
+
+&lt;p&gt;联合国&lt;em&gt;《公民权利和政治权利国际公约》&lt;/em&gt; 
+  第7条：对任何人均不得未经其自由同意而施以医药或科学试验。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;《刑法》&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; 第234条：故意伤害他人身体的，处三年以下有期徒刑、拘役或者管制。
+
+&amp;gt; 第238条：非法拘禁他人或者以其他方法非法剥夺他人人身自由的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;《刑法修正案（九）》&lt;/em&gt;
+    &amp;gt; 在刑法第260条后增加一条，作为第260条之一：“对未成年人、老年人、患病的人、残疾人等负有监护、看护职责的人虐待被监护、看护的人，情节恶劣的，处三年以下有期徒刑或者拘役。有前款行为，同时构成其他犯罪的，依照处罚较重的规定定罪处罚。”&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; 第336条：非法行医罪，是指未取得医生执业资格的人擅自从事医疗活动，情节严重的行为。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;《中华人民共和国未成年人保护法》&lt;/em&gt;
+    &amp;gt; 第6条：保护未成年人，是国家机关、武装力量、政党、社会团体、企业事业组织、城乡基层群众性自治组织、未成年人的监护人和其他成年公民的共同责任。对侵犯未成年人合法权益的行为，任何组织和个人都有权予以劝阻、制止或者向有关部门提出检举或者控告。&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; 第10条：父母或者其他监护人应当创造良好、和睦的家庭环境，依法履行对未成年人的监护职责和抚养义务。禁止对未成年人实施家庭暴力，禁止虐待、遗弃未成年人，禁止溺婴和其他残害婴儿的行为，不得歧视女性未成年人或者有残疾的未成年人。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;白纸黑字。十年。数百名未成年人。无反抗，无管制。&lt;/p&gt;
+
+&lt;p&gt;这就是我们日日强调的国家？这就是我们在夜夜叨念的基本法？&lt;/p&gt;
+
+&lt;p&gt;王尼玛在暴走大事件的最后留下这样一句话：“正义有时会迟到，但永远不会缺席。”没错，但是在正义迟到的同时，又有这么几十名，甚至几百名青少年被虐待，被迫害。正义，你再不来，就晚了。一切都完了。&lt;/p&gt;
+
+&lt;p&gt;网友说，这是个监狱。&lt;/p&gt;
+
+&lt;p&gt;我说，不，这是1949年的渣滓洞。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/original/society/2016/09/28/yang-yong-xin-go-to-jail/</link>
+        <guid isPermaLink="true">http://localhost:4000/original/society/2016/09/28/yang-yong-xin-go-to-jail/</guid>
+        
+        <category>china</category>
+        
+        <category>society</category>
+        
+        <category>evil</category>
+        
+        <category>internet</category>
+        
+        
+        <category>original</category>
+        
+        <category>society</category>
+        
+      </item>
+    
+      <item>
+        <title>漫话留学(1)：我，和我的故事</title>
+        <description>&lt;p&gt;果然还是有读者提到了美国留学的话题。其实这个话题吧，我本不想多写，毕竟很难写，有时候也会写得枯燥无味。我之前在开明劼自媒体之前写过一个叫做Culture Crash的英文系列，大致就是有关于我的留美生活的。不过那也是大概一年之前的事情了。这次写这样的一个系列也希望不会写得太乱，也希望能够给大家一些参考。&lt;/p&gt;
+
+&lt;p&gt;我目前就读于美国马里兰州(Maryland)蒙哥马利郡(Montgomery County)的一所公立高中。初中的时候，我在想为什么美国的作业这么少，因为我基本都在学校完成。就算没在学校完成，我也会算好时间在第二天的午休时间写完。所以，我就这样，几乎从来不在家里开书包，完美地度过了一年。然而，到了高中我也是怕了。别说在学校做完了….. 学校的课表紧得你连坐下来安安静静做作业的时间都没有。高一，我的作业就压得我生疼——不是压力，是重量。你们应该看到过那种老式的多次使用的课本，大概1000张比A4纸还要大的广告印刷纸加上外面的硬封皮，一本书绝对比一本现代汉语词典要重。然而，就这样每天，我要背着这么两本书，来回穿梭在教室之间。我经常跟我的朋友说，这作业，你说难吗？其实一点都不难。有些作业可能根本都不用动脑子，只是纯粹的抄书，但是那个量就放在那里，你再聪明都要花这点时间。&lt;/p&gt;
+
+&lt;p&gt;说完作业的量，说说课程。大家可能多多少少从我之前的文章里了解到一些我学的课程。AP(Advanced Placement也就是大学预科课程)几乎是人人都要挑战的一个难关。说简单点，就是你在高中的时候拼命折腾自己完成大学的课程这样你在大学的时候就可以学更加折腾地去读更难的课了，多么美妙快乐的故事。我在高一（美国初中三年高中四年，高一是国内的初三，九年级）选了两门AP课程，AP-NSL（美国政府）和AP-CSP（计算机技术基础）。计算机对我来说当然是毫无压力了，但历史这种东西对咱新移民来说简直就是灾难——你小时候在国内学的都是中国历史，跟美国历史边都不搭。别人都是从小学到大，你才刚刚起步，咱不说这个难度，你的压力肯定也不小吧！在这种2门AP，4门Honor（荣誉班）的情况下我的作业基本3-5个小时可以完成。所以，说美国作业少，相比国内，也差不了多少。
+高中大家都是很拼命的，九年级还好，等到了十年级，十一年级，如果你想当学霸，那就准备好凌晨1点睡觉吧。特别是在我们这种亚洲人特别多的学校，你说你数学好？根本无优势。走廊里大吼一句中文分分钟有人用流利的中文脏话骂你。看清一切，你会发现你不仅没有多少超前，还有些落后了。&lt;/p&gt;
+
+&lt;p&gt;课外活动，我也不想多说。这些纯粹是出于你是否想去参加。毕竟并不是每个社团都在规规矩矩地运作——我们学校有些千奇百怪的社团，什么Gender Sexuality Alliance（性取向联盟？），Students Against Capital Punishment（反对死刑的学生），Liberty in North Korea（朝鲜自由）都想得出来。爱进不进，擦亮眼睛看清楚什么社团是你能够负担的。辩论社，数学队这些我都有不小兴趣，数学虽然难（而且一教室的中国移民），呆在里面跟着微积分的大神们玩玩有益无害。&lt;/p&gt;
+
+&lt;p&gt;这就是我对这个系列大概的一个Intro。我之后会更加深入地讨论一些学校里的问题，喝一些大家关注的重点。和往常一样，如果你有任何问题，欢迎留言提问，我非常乐意来和读者们一起讨论！&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/original/studying/2016/09/19/me-and-my-story/</link>
+        <guid isPermaLink="true">http://localhost:4000/original/studying/2016/09/19/me-and-my-story/</guid>
+        
+        <category>original</category>
+        
+        <category>studying</category>
+        
+        <category>abroad</category>
+        
+        <category>life</category>
+        
+        
+        <category>original</category>
+        
+        <category>studying</category>
+        
+      </item>
+    
+  </channel>
+</rss>

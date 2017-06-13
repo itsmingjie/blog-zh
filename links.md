@@ -5,14 +5,19 @@ permalink: /links/
 comments: false
 author_footer: false
 ---
-## 知识库
-* [mindhacks][] - 不可思议的博客(涉及心理学，数学，计算机等各个领域)
+## 个人项目
+* [Pleb][] - 一个政治游戏，正在带队开发中。
 
-## 博客 
-* [狮子的魂][] - 领我入坑的大神，标杆
-* [forsigner][] - 设计出身，node.js粉丝，前端牛人
+## 友情链接 
+* [光卡科技][] - 光卡大大，不得不提一下，圈子里的大神。
+* [Abalonewire][] - 朋友的博客
+* [Luminous Sky][] - 老李？是你吗老李？
+* [Rabbittu][] - 一个写博客的前辈
+* [芸枫][] - 以前也在用Ghost的博主
 
-
-[mindhacks]: http://mindhacks.cn
-[狮子的魂]: http://my.oschina.net/jcseg/blog/
-[forsigner]: http://forsigner.com/
+[Pleb]: https://pleb.ml
+[光卡科技]: http://hikaricalyx.com/
+[Abalonewire]: https://www.abalonewire.com/
+[Luminous Sky]: http://blog.luminousky.com/
+[Rabbittu]: https://www.rabbittu.com
+[芸枫]: https://yffengshi.ml/
